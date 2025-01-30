@@ -1,0 +1,9 @@
+{
+	"name": "Data-Factory-Instance95",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b68bd120-fe0f-4adc-b827-55437dc02949",
+		"tenantId": "c99033ab-eea8-4324-9b4c-36095e8f26f2"
+	}
+}
